@@ -1,0 +1,1 @@
+The above training of model is done by using a dataset "train.csv" which is available upon request. It contains over a hundred thousand entries. We preprocess all of this data using Python libraries and perform different classifications on the processed data.
